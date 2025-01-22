@@ -8,6 +8,6 @@ Panda-Library is a lightweight and versatile library designed for efficient data
   ![no image](install.png)
 
 - Import Panda-Library:
-  1[no image](import_and_install.png)
+  1[no image](import_and_Initialize.png)
 
 
